@@ -1,6 +1,5 @@
-
-
-## Creativity Landing Page(Project-14)  
+# Creativity-Landing-Page-Project-14
+ 
 [Live Link]()
 
 
@@ -8,7 +7,7 @@
 
 **Mobile Responsive Website**:
 
-**The project took ***10 Hours*** to complete.** 
+**The project took ***9 Hours*** to complete.** 
 
 
 ![image](./14.png)
